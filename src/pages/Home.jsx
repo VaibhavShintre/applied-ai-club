@@ -29,7 +29,6 @@ export default function Home() {
 
       {/* Hero */}
       <div className="mb-16">
-        <p className="text-[#CC0000] text-xs font-semibold tracking-widest uppercase mb-4">Student Club at NC State</p>
         <h1 className="text-4xl sm:text-5xl font-bold text-neutral-900 leading-tight tracking-tight mb-5">
           Applied AI Club
         </h1>
